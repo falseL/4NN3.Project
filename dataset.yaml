@@ -1,4 +1,4 @@
-path: dataset-vehicles
+path: ../4NN3.Project/dataset-vehicles
 train: images/train
 val: images/val
 test: images/test
@@ -9,4 +9,3 @@ names:
     2: Truck
     3: Bus
     4: Bicycle
-
